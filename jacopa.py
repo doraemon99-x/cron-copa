@@ -4,7 +4,8 @@ import requests
 
 # List of URLs
 urls = [
-    "https://str.skom.id/vid/vidmpd/tv.php?id=17471",
+    "https://tipivid.000webhostapp.com/vidmpd/tv.php?id=17470",
+    "https://tipivid.000webhostapp.com/vidmpd/tv.php?id=17471",
     ]
 
 # Visit each URL
